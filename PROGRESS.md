@@ -18,6 +18,6 @@
 * [ ] Section 20: PostgreSQL Schemas
 * [ ] Section 21: Exploring array functions
 * [ ] Section 22: JSON with PostgreSQL
-[ ] Section 23: Indexes and Performance Optimization
-[ ] Section 24: All about Views
-[ ] Section 25: Fun with subqueries
+* [ ] Section 23: Indexes and Performance Optimization
+* [ ] Section 24: All about Views
+* [ ] Section 25: Fun with subqueries
